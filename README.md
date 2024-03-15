@@ -1,6 +1,6 @@
 <div id="header" align="center">
+  <h1>Welcome</h1>
   <h1>Hello there I'm Nezo Dawn</h1>
-  <h1>Welcome to my GitHub</h1>
 </div>
 
 <div id="badges">
