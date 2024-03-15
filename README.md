@@ -14,10 +14,20 @@
 <div id="bio">
   <h2>About Me</h2>
   <ul>
-    <li>I'm a [Analyst] and [Amateur Web Developer]</li>
-    <li>I'm passionate about [what you're passionate about]</li>
-    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the [your field] space.</li>
+    <li>I'm a Analyst and Amateur Web Developer</li>
+    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the Nezo Dawn space.</li>
     <li>I enjoy documenting my projects on Medium to gain a deeper understanding of my work.</li>
-    <li>Focusing on learning [languages or technologies you're currently studying] right now.</li>
+    <li>Focusing on learning Indonesian and Engglish right now.</li>
   </ul>
 </div>
+
+<div id="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>Design</li>
+    <li>Coding</li>
+    <li>Web Development</li>
+    <li>Administration</li>
+  </ul>
+</div>
+
